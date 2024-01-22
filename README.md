@@ -28,7 +28,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=nLucas011&show_icons=true&theme=vision-friendly-dark" alt="João Lucas stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nLucas011&layout=compact&theme=vision-friendly-dark" alt="João Lucas most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=nLucas011&show_icons=true&theme=vision-friendly-dark" alt="João Lucas's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nLucas011&layout=compact&theme=vision-friendly-dark" alt="João Lucas's most languages"/>
 </p>
 
