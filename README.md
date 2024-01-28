@@ -13,8 +13,8 @@
 
 ### Skills:
 <a href = "#"><img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript&labelColor=0D1117&textColor=0D1117" target="_blank"></a>
-<a href = "#"><img src="https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML&labelColor=0D1117&textColor=0D1117" target="_blank"></a>
-<a href = "#"><img src="https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=CSS&labelColor=0D1117&textColor=0D1117" target="_blank"></a>
+<a href = "#"><img src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117&textColor=0D1117" target="_blank"></a>
+<a href = "#"><img src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&labelColor=0D1117&textColor=0D1117" target="_blank"></a>
 
 ### Tools:
 <a href = "#"><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117" target="_blank"></a>
@@ -23,7 +23,7 @@
 <a href = "#"><img src="https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117" target="_blank"></a>
 <a href = "#"><img src="https://img.shields.io/badge/-PowerShell-0D1117?style=for-the-badge&logo=powershell&labelColor=0D1117" target="_blank"></a>
 
- <a href = "#"><img align="right" alt="AlphaJR" height="150" style="border-radius:100%;" src="https://cdn.discordapp.com/icons/1061297406068662374/5b820a81a8c2544fa60860f330bdd340.png?format=webp&quality=lossless&width=550&height=550?width=473&height=473" target="_blank"></a>
+ <a href = "#"><img align="right" alt="nlucas011" height="150" style="border-radius:100%;" src="https://cdn.discordapp.com/icons/1061297406068662374/5b820a81a8c2544fa60860f330bdd340.png?format=webp&quality=lossless&width=550&height=550?width=473&height=473" target="_blank"></a>
  
 ### Studying:
 <a href = "#"><img src="https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=0D1117" target="_blank"></a>
