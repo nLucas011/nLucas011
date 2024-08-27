@@ -1,10 +1,11 @@
-# João Lucas
+# Hello 👋, I'm João Lucas
 
-Junior Front-End Developer
+Senior Web Developer & Instructor focused on helping people start programming.
 
-Enthusiast of the best web development technologies.
+💬 Ask me about **Typescript, Next.js, Tailwind CSS, Prisma, Node.js**  
+🌐 More at [nLucas.dev](https://nlucas011.dev)
 
-Passionate about education and changing people's lives through programming. Always eager to learn and grow in the field.
+Enthusiast of the best web and mobile development technologies.  
+Passionate about education and changing people's lives through programming. Over 200,000 people have gone through one of my trainings.
 
-> "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful."
-
+> "Nothing in this world surpasses good old persistence. Talent doesn't surpass. Nothing is more common than talented failures. Genius doesn't surpass. Unrecognized geniuses are practically a cliché. Education doesn't surpass. The world is full of educated fools. Persistence and determination are powerful."
