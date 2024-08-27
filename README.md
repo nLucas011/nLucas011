@@ -3,7 +3,6 @@
 Junior Front-End Developer
 
 💬 Ask me about **Typescript, Next.js, Tailwind CSS, Prisma, Node.js**  
-🌐 More at [nLucas.dev](https://nlucas011.dev)
 
 Enthusiast of the best web and mobile development technologies.  
 Passionate about education and changing people's lives through programming. Over 200,000 people have gone through one of my trainings.
